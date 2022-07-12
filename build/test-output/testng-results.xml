@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-12T10:39:14Z" name="Suite1" finished-at="2022-07-12T10:39:14Z" duration-ms="25">
+    <groups>
+    </groups>
+    <test started-at="2022-07-12T10:39:14Z" name="Test1" finished-at="2022-07-12T10:39:14Z" duration-ms="25">
+      <class name="packet.c1">
+        <test-method signature="testcase()[pri:0, instance:packet.c1@1b266842]" started-at="2022-07-12T16:09:14Z" name="testcase" finished-at="2022-07-12T16:09:14Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- packet.c1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
